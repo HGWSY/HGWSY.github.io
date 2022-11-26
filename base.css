@@ -1,14 +1,14 @@
 body{
-  font-family: SourceHanSansSC-regular;
+  font-family: "Noto Sans SC", sans-serif;
   font-size: larger;
 }
 p{
   text-align: center;
   color: rgb(87, 77, 217);
 }
+
 h2 {
-  color:rgb(236, 13, 13);
-  font-family: SourceHanSansSC-Regular;
+  text-align: center;
 }
 
 .tex sub, .latex sub, .latex sup {
